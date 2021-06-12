@@ -45,6 +45,8 @@ Para abrir o projeto, basta instalar o Node.js, clonar o projeto ou baixar em ZI
   npm start
 ```
 
+- Feito isso, basta acessar o projeto em seu navegador digitando: http://localhost:3000/
+
 ## Design do Projeto
 [Ecoleta - Starter](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=1%3A8)
 
