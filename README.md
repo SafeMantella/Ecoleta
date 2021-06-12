@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img width="400px" style="border-radius:8px;" src="https://i.imgur.com/5J2PkU7.png">
+    <img width="400px" style="border-radius:8px" src="https://i.imgur.com/5J2PkU7.png">
     <br><br>
     <p align="center">
       <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
